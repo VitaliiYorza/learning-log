@@ -101,3 +101,26 @@ Today I focused on distribution shapes, skewness, and normalization techniques.
 
 Each adjustment to data reveals a little more of its hidden structure.  
 Onward. 🚀
+
+# 📘 Day 4 — Understanding Data Types
+
+📈 **Still on my first goal:** Strengthening my statistical foundation.  
+Today I explored different types of data and how to work with them properly.
+
+### 📚 Today I learned:
+
+1. I learned to differentiate between **numerical** and **categorical** types of data.
+2. I understood that **numerical data** is best analyzed using statistical measures such as mean, median, and standard deviation.
+3. I learned that **categorical data** should be analyzed by counting occurrences, calculating participation percentages, and identifying unique values.
+4. I practiced **visualizing categorical data** using **bar charts**.
+5. I realized the importance of **recognizing data types early** because **different types require different analytical approaches**.
+
+🧰 **Working with libraries:**  
+`numpy`, `pandas`, `matplotlib`
+
+---
+Even though today's notes look shorter, it was one of the most challenging and practical days so far.  
+I spent a lot of time applying theory to real examples and reinforcing my understanding.
+
+Each new layer of understanding builds stronger foundations.  
+Onward. 🚀
